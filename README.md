@@ -8,6 +8,7 @@ In an attempt to further educate myself on Redux and ReactNative, I've created t
 
 - CouchDB - data store
 - Auth0 - Authentication
+- LocalStorage
 
 ## Core Features
 
