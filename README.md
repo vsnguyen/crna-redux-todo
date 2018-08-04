@@ -23,6 +23,6 @@ In an attempt to further educate myself on Redux and ReactNative, I've created t
 ## Application Flow
 
 - user launches app for the first time should be greeted with the login screen
-- user sign in or sign up should be redirected to the "TODO" screen
-- user create/update/delete todo item.
-- user mark todo item as complete
+- user should sign in or sign-up and be redirected to the todo screen.
+- user should create/update/delete todo item.
+- user marks todo item as complete.
